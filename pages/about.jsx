@@ -8,7 +8,7 @@ const AboutPage = () => {
         </h4>
         <br/>
         <h4>
-        If you're looking for a reliable developer, I'm the one for you!
+        If you're looking for a reliable developer, I'm the one for you!!
         </h4>
     </>
   );
