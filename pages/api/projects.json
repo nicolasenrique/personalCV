@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Disney carhacter's API",
     "image": "https://imgur.com/tAZotn3.png",
-    "description": "Developed an API for the Disney characters",
+    "description": "Developed an API for the Disney caracters",
     "tags": ["node", "MySQL", "Sendgrid", "Express"],
     "source_code": "https://github.com/nicolasenrique/backendChallenge",
     "demo": ""
