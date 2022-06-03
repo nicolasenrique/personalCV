@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Disney carhacter's API",
+    "name": "Disney character's API",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "Developed an API for the Disney characters",
     "tags": ["node", "MySQL", "Sendgrid", "Express"],
